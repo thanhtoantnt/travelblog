@@ -1,0 +1,23 @@
+# Site settings
+title: Introducing VIETNAM
+subtitle: "Your travel guide to backpack in Vietnam"
+email: thanhtoantnt@gmail.com
+description: "Travel to know who you are"
+baseurl: ""
+url: "http://yourdomain.com"
+facebook_username: "thanhtoantnt"
+github_username:  "thanhtoantnt"
+instagram_username: "thanhtoantnt"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Pagination
+paginate: 5
+
+# Sass
+sass:
+    style: :compressed
+
+plugins: [jekyll-paginate]
